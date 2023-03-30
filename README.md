@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Guippyyy&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guippyyy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](C:\Users\Guill\OneDrive\Pictures\RANDOM PHOTOS\cars)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F291326669617473585%2F&psig=AOvVaw2O53FDakrlpjKmkdn9h0-U&ust=1680261752451000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCJj_0vnEg_4CFQAAAAAdAAAAABCaAQ)
 ---
 [![](https://visitcount.itsvg.in/api?id=Guippyyy&icon=6&color=0)](https://visitcount.itsvg.in)
 
