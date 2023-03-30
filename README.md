@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting my degree Applied Informatics<br>🌱 I’m currently learning spring<br>⚡ Fun fact - more social less nerd
+🔭 I’m currently working on getting my degree Applied Informatics<br>🌱 I’m currently learning Flutter & Spring<br>⚡ Fun fact - more social less nerd
 
 
 # 💻 Tech Stack:
