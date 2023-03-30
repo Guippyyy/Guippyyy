@@ -1,4 +1,4 @@
-# ------------------------- GUILLAUME DE CRAENE ------------------------
+#  GUILLAUME DE CRAENE 
 ![fencing-james-bond](https://user-images.githubusercontent.com/91894236/228826107-2a43e1c9-75a6-457f-9d9f-60b903a69a8c.gif)
 
 
