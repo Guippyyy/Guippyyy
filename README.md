@@ -9,6 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Guippyyy&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guippyyy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](C:\Users\Guill\OneDrive\Pictures\RANDOM PHOTOS\cars)
 ---
 [![](https://visitcount.itsvg.in/api?id=Guippyyy&icon=6&color=0)](https://visitcount.itsvg.in)
 
